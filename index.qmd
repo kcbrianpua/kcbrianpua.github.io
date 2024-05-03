@@ -1,0 +1,37 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/scuba_casey.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/kcbrianpua
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/casey-pua-8a4a021aa/
+    - icon: envelope
+      text: Email
+      href: "mailto:cbpua@cpp.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+My name is Casey Brian Pua, and I am a current graduate student at California State Polytechnic University, Pomona. I am in the process of getting my masters degree in biology. On this website, I offer a glimpse into my ongoing research, publications, and photo album.
+
+My research interests include anything marine, primarily marine ecology. I am particularly interested in habitat/species conservation and restoration. My studies, at the moment, is looking at artificial reefs. Specifically I am looking at the characteristics of artificial reefs (complexity, heterogeneity, and vertically), and the construction materials that make artificial reefs, effects on local planktivore density. 
+
+I am working as a mentor and TA. I am currently in the Ernest Prete Jr. Fellowship, where I mentor over a group of college students who create and teach a biology lesson to elementary kids at Kellogg Polytechnic Elementary. Simultaneously I am TAing lab sections. In the past I have taught BIO 1110L and BIO 1210L. My teaching style is engaging and accessible, and I encourage my students to think critically and creatively.
+
+On this website, you will find a selection of scholarly articles and photos. In the future I hope to update this website with my published work and other achievements. You will also find news and updates on my current research projects, as well as information on upcoming events and conferences where I will be speaking. I invite you to explore my website and learn more about me.
+Please feel free to [contact me](mailto:cbpua@cpp.edu) if you have any questions or would like to discuss potential projects.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
+

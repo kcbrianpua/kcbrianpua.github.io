@@ -1,0 +1,25 @@
+---
+title: "Photography"
+---
+
+Growing up I never really took any photos. So, now as I've gotten older I have found how important photos are for memories. I really enjoy taking film and digital photos. So, here on this tab, are some of my favorite photos. 
+
+::: {layout-ncol=2}
+
+![](poppy.jpg)
+
+![](pan_chem.jpg)
+
+![](fossil.jpg)
+
+![](tidal.jpg)
+![](white_flow.jpg)
+
+:::
+
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="https://www.marvinschmitt.com/blog/website-tutorial-quarto/" role="button" target="_blank" style="padding: 15px 30px;">View the tutorial for this template (+ download link)</a>
+</div>
+```
